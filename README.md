@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
-- 🔭 I’m currently working on [Pythia](https://github.com/louisleslie/pythia-app)
+- 🌱 I’m currently learning **Java**
 
-- 🌱 I’m currently learning **Ruby on Rails and React**
-
-- 💬 Ask me about **Ruby, Rails, JS**
+- 💬 Ask me about **Java, Ruby, Rails, JS**
 
 - 📫 How to reach me **jake.howlett93@gmail.com**
 
