@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">A passionate frontend developer from the UK</h3>
+<h3 align="center">A passionate fullstack developer from the UK</h3>
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, Ruby, Rails, JS**
+- 💬 Ask me about **React, Vue, C#, Java, Ruby, Rails, JS**
 
 - 📫 How to reach me **jake.howlett93@gmail.com**
 
